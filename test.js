@@ -4,7 +4,6 @@
 
 const Lab = require('@hapi/lab');
 const Code = require('@hapi/code');
-const Hapi = require('@hapi/hapi');
 const Cov = require('.');
 
 // Test shortcuts
